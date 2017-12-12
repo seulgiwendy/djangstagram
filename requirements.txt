@@ -1,0 +1,12 @@
+boto==2.48.0
+Django==2.0
+django-admin==1.0.13
+django-boto==0.3.12
+django-excel-response2==2.0.8
+django-six==1.0.4
+django-storages==1.6.5
+python-dateutil==2.6.1
+pytz==2017.3
+screen==1.0.1
+six==1.11.0
+xlwt==1.3.0
